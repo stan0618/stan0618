@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan0618&layout=compact&theme=onedark&hide=jupyter%20notebook,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **stan0618/stan0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
