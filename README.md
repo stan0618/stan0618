@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://memeprod.ap-south-1.linodeobjects.com/user-gif-thumbnail/2f288370c3c713377236f214a46fb534.gif" class="grid-gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan0618&layout=compact&theme=onedark&hide=jupyter%20notebook,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
